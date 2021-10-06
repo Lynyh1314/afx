@@ -1,0 +1,34 @@
+{
+    "code":1,
+    "msg":"ok",
+    "content":"取应用信息成功",
+    "data":{
+        "启动_类型":"1",
+        "启动_图片链接":"",
+        "启动_跳转链接":"",
+        "倒计时_类型":"0",
+        "倒计时_时间":"5",
+        "倒计时_内容":{
+            "img":"",
+            "url":""
+        },
+        "轮播_轮播信息":[{
+            "img":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01d6fd56de68d86ac72531cb20c3f7.jpg%40900w_1l_2o_100sh.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636107405&t=2cc853b52a4add7db2f00147cfcf6ff9",
+            "url":""
+        },{
+            "img":"https://img2.baidu.com/it/u=1004682078,2886860504&fm=26&fmt=auto",
+            "url":""
+        }],
+        "轮播_高度":"198",
+        "轮播_时间":"3",
+        "版本编号":"1",
+        "版本名称":"1.0.0",
+        "更新地址":"http://www.qq.com",
+        "更新内容":"1、更新了啥\n2、更新了啥",
+        "强制更新":"假",
+        "公告内容":"公告内容",
+        "弹出提示":"提示信息",
+        "接口地址":"https://xn--dlq36ke4hyv5a.xyz",
+        "TypeData":[{"t_name":"国产名人","t_id":"11","t_sort":"0","t_pid":"0"},{"t_name":"国产调教","t_id":"596","t_sort":"0","t_pid":"0"},{"t_name":"原创偷拍","t_id":"13","t_sort":"0","t_pid":"0"},{"t_name":"漂亮身材","t_id":"14","t_sort":"0","t_pid":"0"},{"t_name":"国产精品","t_id":"15","t_sort":"0","t_pid":"0"},{"t_name":"无码中文AV","t_id":"21","t_sort":"0","t_pid":"0"},{"t_name":"强奸中文av","t_id":"22","t_sort":"0","t_pid":"0"},{"t_name":"制服中文AV","t_id":"25","t_sort":"0","t_pid":"0"},{"t_name":"金发洋妹","t_id":"31","t_sort":"0","t_pid":"0"},{"t_name":"欧美激情","t_id":"612","t_sort":"0","t_pid":"0"},{"t_name":"韩主播","t_id":"41","t_sort":"0","t_pid":"0"},{"t_name":"主播大秀","t_id":"42","t_sort":"0","t_pid":"0"},{"t_name":"动漫3D","t_id":"50","t_sort":"0","t_pid":"0"},{"t_name":"男同女同","t_id":"60","t_sort":"0","t_pid":"0"},{"t_name":"亚洲无码","t_id":"70","t_sort":"0","t_pid":"0"},{"t_name":"国产三级","t_id":"101","t_sort":"0","t_pid":"0"},{"t_name":"韩国三级","t_id":"585","t_sort":"0","t_pid":"0"}]
+    }
+}
