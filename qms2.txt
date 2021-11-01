@@ -14,10 +14,10 @@
         },
         "轮播_轮播信息":[{
             "img":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01d6fd56de68d86ac72531cb20c3f7.jpg%40900w_1l_2o_100sh.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636107405&t=2cc853b52a4add7db2f00147cfcf6ff9",
-            "url":""
+            "url":"http://www.qq.com"
         },{
             "img":"https://img2.baidu.com/it/u=1004682078,2886860504&fm=26&fmt=auto",
-            "url":""
+            "url":"http://www.baidu.com"
         }],
         "轮播_高度":"198",
         "轮播_时间":"3",
